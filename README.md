@@ -1,5 +1,5 @@
 # Gideon2QVR
-Gideon2QVR framework (used currently in VRDUS Meta Quest) Framework with Unity C# following methods and format of Gideon1, but with improvements, switches to the rendering pipeline from GideonVR, designed for Android OS operating on the Meta Quest Meta Horizon OS.
+Gideon2QVR framework (used currently in VRDUS Meta Quest) Unity C#. Rendering pipeline for Android on the Meta Quest Meta Horizon OS.
 <br><br>
 Additional focus for the device.<br>
 -Hand tracking<br>
