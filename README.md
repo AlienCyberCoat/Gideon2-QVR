@@ -1,7 +1,7 @@
 # Gideon2QVR
 Unity Gideon2QVR (used currently in VRDUS Meta Quest) Unity C#. Rendering pipeline for Android on the Meta Quest Meta Horizon OS.
 <br><br>
-Recently added<br>
+Addded<br>
 -Hand tracking<br>
 -Passthrough
 
